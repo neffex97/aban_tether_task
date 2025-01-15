@@ -24,7 +24,7 @@ The **UserDetails** feature module is a Flutter implementation using **clean arc
 
    ```bash
    git clone https://github.com/neffex97/aban_tether_task.git
-   cd user_details_module
+   cd aban_tether_task
 
     ```
 
